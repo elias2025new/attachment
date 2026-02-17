@@ -160,7 +160,7 @@ input:focus {
 
 .watermark {
   position: absolute;
-  top: 50%;
+  top: 58%;
   left: 50%;
   transform: translate(-50%, -50%) rotate(-45deg);
   font-size: 10rem;
@@ -168,7 +168,8 @@ input:focus {
   font-family: Calibri, 'Segoe UI', sans-serif !important;
   color: rgba(200, 200, 200, 0.15);
   pointer-events: none;
-  z-index: 0;
+  z-index: 2;
+  /* Bring to front so it's not hidden by images */
   white-space: nowrap;
   text-transform: uppercase;
 }
@@ -341,7 +342,7 @@ input:focus {
   /* Watermark consistency in print */
   .watermark {
     position: absolute !important;
-    top: 55% !important;
+    top: 58% !important;
     left: 50% !important;
     transform: translate(-50%, -50%) rotate(-45deg) !important;
     font-size: 10rem !important;
@@ -350,7 +351,7 @@ input:focus {
     color: rgba(200, 200, 200, 0.15) !important;
     text-transform: uppercase !important;
     white-space: nowrap !important;
-    z-index: 0 !important;
+    z-index: 2 !important;
     print-color-adjust: exact !important;
     -webkit-print-color-adjust: exact !important;
     visibility: visible !important;
