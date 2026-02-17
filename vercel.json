@@ -1,0 +1,6 @@
+{
+    "$schema": "https://openapi.vercel.sh/vercel.json",
+    "buildCommand": "cd attachment-react && npm install && npm run build",
+    "outputDirectory": "attachment-react/dist",
+    "installCommand": "cd attachment-react && npm install"
+}
