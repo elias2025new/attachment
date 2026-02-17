@@ -8,7 +8,6 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
-)
 
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
