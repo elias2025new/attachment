@@ -163,11 +163,14 @@ input:focus {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%) rotate(-45deg);
-  font-size: 8rem;
-  color: rgba(200, 200, 200, 0.2);
+  font-size: 10rem;
+  font-weight: 600;
+  font-family: Calibri, 'Segoe UI', sans-serif !important;
+  color: rgba(200, 200, 200, 0.15);
   pointer-events: none;
   z-index: 0;
   white-space: nowrap;
+  text-transform: uppercase;
 }
 
 .doc-content {
@@ -333,5 +336,24 @@ input:focus {
     margin-left: -7.5% !important;
     max-width: none !important;
     print-color-adjust: exact;
+  }
+
+  /* Watermark consistency in print */
+  .watermark {
+    position: absolute !important;
+    top: 55% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) rotate(-45deg) !important;
+    font-size: 10rem !important;
+    font-weight: 600 !important;
+    font-family: Calibri, 'Segoe UI', sans-serif !important;
+    color: rgba(200, 200, 200, 0.15) !important;
+    text-transform: uppercase !important;
+    white-space: nowrap !important;
+    z-index: 0 !important;
+    print-color-adjust: exact !important;
+    -webkit-print-color-adjust: exact !important;
+    visibility: visible !important;
+    display: block !important;
   }
 }
