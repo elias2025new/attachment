@@ -166,7 +166,7 @@ input:focus {
   font-size: 10rem;
   font-weight: 600;
   font-family: Calibri, 'Segoe UI', sans-serif !important;
-  color: rgba(200, 200, 200, 0.15);
+  color: rgba(0, 0, 0, 0.12);
   pointer-events: none;
   z-index: 2;
   /* Bring to front so it's not hidden by images */
@@ -348,7 +348,7 @@ input:focus {
     font-size: 10rem !important;
     font-weight: 600 !important;
     font-family: Calibri, 'Segoe UI', sans-serif !important;
-    color: rgba(200, 200, 200, 0.15) !important;
+    color: rgba(0, 0, 0, 0.12) !important;
     text-transform: uppercase !important;
     white-space: nowrap !important;
     z-index: 2 !important;
