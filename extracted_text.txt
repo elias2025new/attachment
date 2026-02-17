@@ -1,0 +1,132 @@
+                
+                      
+ 
+                SWISS
+ 
+INN
+ 
+NEXUS 
+HOTEL
+                 Attachment
+                                   
+                       
+Laundary
+ 
+   
+NO:
+ 
+  
+0002194454
+   Name:
+ 
+HAILU TESFAYE
+ 
+  
+           
+                               
+ 
+                                                   
+ 
+ 
+DATE:
+ 
+13
+/
+02
+/202
+6
+                             
+                               
+                                                             
+=====================================================================
+<w:tab w:val="left" w:pos="1558"/><w:tab w:val="left" w:pos="5751"/><w:tab w:val="left" w:pos="7190"/></w:tabs><w:ind w:right="109"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-1"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr></w:pPr><w:proofErr w:type="spellStart"/><w:r w:rsidRPr="006B764A"><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-2"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr><w:t>Srl
+# PARTICULARS
+<w:t xml:space="preserve"> 
+QTY
+<w:t xml:space="preserve">           AMOUNT
+ 
+<w:tab w:val="left" w:pos="1558"/><w:tab w:val="left" w:pos="5751"/><w:tab w:val="left" w:pos="7190"/></w:tabs><w:ind w:right="109"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-1"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr></w:pPr><w:proofErr w:type="spellStart"/><w:r><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-1"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr><w:t>Coa
+/Normal
+            
+                              
+              
+     
+     
+      2
+                              
+     
+197.620
+<w:tab w:val="left" w:pos="1558"/><w:tab w:val="left" w:pos="5751"/><w:tab w:val="left" w:pos="7190"/></w:tabs><w:ind w:right="109"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-1"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-1"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr><w:t>Trouser /
+Nml
+                                                                      8                                   197.620
+<w:tab w:val="left" w:pos="1558"/><w:tab w:val="left" w:pos="5751"/><w:tab w:val="left" w:pos="7190"/></w:tabs><w:ind w:right="109"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-1"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-1"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr><w:t>Shirt                                                                                     14                                  118.570
+<w:tab w:val="left" w:pos="1558"/><w:tab w:val="left" w:pos="5751"/><w:tab w:val="left" w:pos="7190"/></w:tabs><w:ind w:right="109"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-1"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-1"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr><w:t>Sweater                                                                               1                                    142.29
+<w:tab w:val="left" w:pos="1558"/><w:tab w:val="left" w:pos="5751"/><w:tab w:val="left" w:pos="7190"/></w:tabs><w:ind w:right="109"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-1"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-1"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr><w:t xml:space="preserve">Jacket 
+Nrml
+                                                                         1                                    197.62
+<w:tab w:val="left" w:pos="1558"/><w:tab w:val="left" w:pos="5751"/><w:tab w:val="left" w:pos="7190"/></w:tabs><w:ind w:right="109"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-1"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-1"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr><w:t>Bedcover Big                                                                       2                                    474.300
+<w:tab w:val="left" w:pos="1558"/><w:tab w:val="left" w:pos="5751"/><w:tab w:val="left" w:pos="7190"/></w:tabs><w:ind w:right="109"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-1"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-1"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr><w:t>Blanket                                                                                 1                                    474.30
+<w:tab w:val="left" w:pos="1558"/><w:tab w:val="left" w:pos="5751"/><w:tab w:val="left" w:pos="7190"/></w:tabs><w:ind w:left="900" w:right="109"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-1"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr></w:pPr><w:r w:rsidRPr="006B764A"><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi" w:cstheme="minorHAnsi"/><w:spacing w:val="-1"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr><w:t xml:space="preserve">                              
+========================================================
+                                                                              
+                              
+SRC@ 10%
+<w:t xml:space="preserve"> 
+   
+539
+.
+90
+                                                                               
+                           
+ 
+VAT@ 15%
+    
+   
+ 
+890.90
+  
+                         
+         
+Total Payable    
+6,829.72
+=====================================================================
+    
+             
+THE
+ ATTACHMENT IS 
+INVALID
+ WITHOUT FISCAL 
+RECEIPT
+ ATTACHED
+<w:tab w:val="left" w:pos="7790"/></w:tabs><w:ind w:left="5751"/><w:rPr><w:rFonts w:cs="Courier New"/><w:sz w:val="18"/></w:rPr></w:pPr><w:r w:rsidRPr="006B764A"><w:rPr><w:rFonts w:cs="Courier New"/><w:spacing w:val="-1"/><w:sz w:val="18"/></w:rPr><w:t>ROOM
+ 
+NUMBER
+:
+ --------------
+<w:tab w:val="left" w:pos="2395"/><w:tab w:val="left" w:pos="3540"/><w:tab w:val="left" w:pos="5751"/><w:tab w:val="left" w:pos="7790"/></w:tabs><w:spacing w:line="478" w:lineRule="auto"/><w:ind w:left="0" w:right="109"/><w:rPr><w:rFonts w:cs="Courier New"/><w:spacing w:val="51"/><w:sz w:val="18"/></w:rPr></w:pPr><w:r w:rsidRPr="006B764A"><w:rPr><w:rFonts w:cs="Courier New"/><w:spacing w:val="-2"/><w:sz w:val="18"/></w:rPr><w:t>CASHIER:
+ 
+hANA
+  
+ 
+ 
+ 
+                 
+ 
+ 
+  
+    
+           
+GUEST
+ NAME
+:
+ ----------
+---
+ 
+<w:tab w:val="left" w:pos="2395"/><w:tab w:val="left" w:pos="5751"/><w:tab w:val="left" w:pos="7790"/></w:tabs><w:spacing w:line="478" w:lineRule="auto"/><w:ind w:left="0" w:right="109"/><w:rPr><w:rFonts w:cs="Courier New"/><w:sz w:val="18"/></w:rPr></w:pPr><w:r w:rsidRPr="006B764A"><w:rPr><w:rFonts w:cs="Courier New"/><w:spacing w:val="-2"/><w:sz w:val="18"/></w:rPr><w:t xml:space="preserve">CASHIER 
+SIGNATURE
+: 
+--------------
+</w:r><w:r w:rsidRPr="006B764A"><w:rPr><w:rFonts w:cs="Courier New"/><w:spacing w:val="-1"/><w:sz w:val="18"/></w:rPr><w:t>GUEST
+ SIGNATURE
+:
+ ------------

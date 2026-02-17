@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nexus Attachment Generator</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="sidebar">
+        <h2>
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                stroke-linecap="round" stroke-linejoin="round">
+                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                <polyline points="14 2 14 8 20 8"></polyline>
+                <line x1="16" y1="13" x2="8" y2="13"></line>
+                <line x1="16" y1="17" x2="8" y2="17"></line>
+                <polyline points="10 9 9 9 8 9"></polyline>
+            </svg>
+            Generator Controls
+        </h2>
+
+        <div class="input-group">
+            <label for="input-title">Title</label>
+            <input type="text" id="input-title" value="Laundary">
+        </div>
+
+        <div class="input-group">
+            <label for="input-no">TIN NO</label>
+            <input type="text" id="input-no" value="0002194454">
+        </div>
+
+        <div class="input-group">
+            <label for="input-name">Name</label>
+            <input type="text" id="input-name" value="HAILU TESFAYE">
+        </div>
+
+        <div class="input-group">
+            <label for="input-date">Date</label>
+            <input type="date" id="input-date">
+        </div>
+
+        <div class="input-group">
+            <label>Items</label>
+            <div id="items-list" class="items-container">
+                <!-- Items will be injected here -->
+            </div>
+            <button class="btn btn-secondary" onclick="addItem()">+ Add Item</button>
+        </div>
+
+        <div class="input-group">
+            <label for="input-cashier">Cashier Name</label>
+            <input type="text" id="input-cashier" value="hANA">
+        </div>
+
+        <button class="btn btn-primary" onclick="window.print()">
+            Print Attachment
+        </button>
+    </div>
+
+    <div class="preview-area" id="preview-area">
+        <div class="document-page">
+            <div class="watermark">ATTACHMENT</div>
+            <div class="doc-content">
+                <div class="doc-header-row">
+                    <img src="header_logo.jpeg" alt="Swiss Inn Nexus Hotel Header" class="full-header-img">
+                </div>
+
+                <div class="brand-name-centered">SWISS INN NEXUS HOTEL</div>
+
+                <div class="doc-title-section">
+                    <div class="attachment-label">Attachment</div>
+                    <h1 id="view-title">Laundary</h1>
+                </div>
+
+                <div class="doc-info">
+                    <p>NO: <span id="view-no">0002194454</span></p>
+                    <p>Name: <span id="view-name">HAILU TESFAYE</span></p>
+                    <p style="text-align: right;">DATE: <span id="view-date">13/02/2026</span></p>
+                </div>
+
+                <p>=====================================================================</p>
+                <table class="doc-table">
+                    <thead>
+                        <tr>
+                            <th style="width: 50px;">Srl#</th>
+                            <th>PARTICULARS</th>
+                            <th style="text-align: center; width: 60px;">QTY</th>
+                            <th style="text-align: right; width: 120px;">AMOUNT</th>
+                        </tr>
+                    </thead>
+                    <tbody id="view-items-body">
+                        <!-- Items injected here -->
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="4">
+                                <p>========================================================</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="text-align: right;">SRC@ 10%</td>
+                            <td style="text-align: right;" id="view-src">0.00</td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="text-align: right;">VAT@ 15%</td>
+                            <td style="text-align: right;" id="view-vat">0.00</td>
+                        </tr>
+                        <tr class="totals-row">
+                            <td colspan="3" style="text-align: right;">Total Payable</td>
+                            <td style="text-align: right;" id="view-total">0.00</td>
+                        </tr>
+                    </tfoot>
+                </table>
+                <p>=====================================================================</p>
+
+                <div style="text-align: center; margin: 2rem 0;">
+                    THE ATTACHMENT IS INVALID WITHOUT FISCAL RECEIPT ATTACHED
+                </div>
+
+                <div class="doc-footer">
+                    <div class="footer-item">
+                        <p>CASHIER: <span id="view-cashier">hANA</span></p>
+                        <p>CASHIER SIGNATURE: --------------</p>
+                    </div>
+                    <div class="footer-item" style="text-align: right;">
+                        <p>ROOM NUMBER: --------------</p>
+                        <p>GUEST NAME: ----------</p>
+                        <p>GUEST SIGNATURE: ------------</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
