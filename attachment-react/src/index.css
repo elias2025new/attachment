@@ -329,7 +329,9 @@ input:focus {
 
   /* Ensure header image prints correctly */
   .full-header-img {
-    max-width: 100% !important;
+    width: 115% !important;
+    margin-left: -7.5% !important;
+    max-width: none !important;
     print-color-adjust: exact;
   }
 }
